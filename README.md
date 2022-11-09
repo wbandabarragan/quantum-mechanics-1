@@ -21,7 +21,7 @@ This course provides an introduction to the formal mathematical treatment of Qua
 - Use quantum mechanics to analyse real microscopic phenomena and interpret experimental data.
 
 ## Syllabus:
-1. The Schrödinger equation
+### 1. The Schrödinger equation
 
 - Review of quantum experiments and mathematical tools.
 
@@ -31,7 +31,7 @@ This course provides an introduction to the formal mathematical treatment of Qua
 
 - Normalisation, momentum, and the uncertainty principle.
 
-2. Quantum Mechanics in 1D
+### 2. Quantum Mechanics in 1D
 
 - Stationary states and the time-independent Schrödinger equation.
 
@@ -41,17 +41,17 @@ This course provides an introduction to the formal mathematical treatment of Qua
 
 - Delta-function potentials, tunnelling and scattering states.
 
-3. Mathematical formalism of Quantum Mechanics
+### 3. Mathematical formalism of Quantum Mechanics
 
-- Linear algebra, Hermitian operators, and Hilbert space
+- Linear algebra, Hermitian operators, and Hilbert space.
 
 - Eigenfunctions, eigenvectors, and eigenvalues for discrete and continuous spectra.
 
-- Dirac notation and the Generalised statistical interpretation
+- Dirac notation and the Generalised statistical interpretation.
 
-- Operators of position and momentum and the uncertainty principle
+- Operators of position and momentum and the uncertainty principle.
 
-4. Quantum Mechanics in 3D
+### 4. Quantum Mechanics in 3D
 
 - Schrodinger Equations in Spherical Coordinates
 
@@ -61,7 +61,7 @@ This course provides an introduction to the formal mathematical treatment of Qua
 
 - Larmor precession and the Stern- Gerlach experiment
 
-5. Two-Particle Systems and quantum applications
+### 5. Two-Particle Systems and quantum applications
 
 - Identical particles and introduction to two-particle systems.
 
@@ -71,3 +71,18 @@ This course provides an introduction to the formal mathematical treatment of Qua
 
 - Applications of quantum mechanics
 
+## Evaluation:
+
+- Formative evaluation (Homework): 20%
+
+- Laboratory (Quizzes): 20%
+
+- Midterm Exam: 30%
+
+- Final Exam: 30%
+
+## Notes:
+
+There will be no make-up assignments nor exams.
+
+Late assignments/exams without justification won't be accepted.
