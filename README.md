@@ -71,6 +71,13 @@ This course provides an introduction to the formal mathematical treatment of Qua
 
 - Applications of quantum mechanics
 
+
+The full course syllabus and programme can be found here:
+
+https://github.com/wbandabarragan/quantum-mechanics-1/blob/main/Course-syllabus.pdf
+
+https://github.com/wbandabarragan/quantum-mechanics-1/blob/main/Course-programme.pdf
+
 ## Evaluation:
 
 - Formative evaluation (Homework): 20%
