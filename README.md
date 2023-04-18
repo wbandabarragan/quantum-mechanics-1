@@ -3,7 +3,7 @@
 ## Yachay Tech University - 2023
 
 ## About this repository:
-This is a collection of lecture notes and programming exercises carried out as part of the Quantum Mechanics I course at Yachay Tech University from November 2022 to March 2023.
+This is a collection of lecture notes and programming exercises carried out as part of the Quantum Mechanics I course at Yachay Tech University from April to August 2023.
 
 ## Lecturer:
 Wladimir Banda Barragán
