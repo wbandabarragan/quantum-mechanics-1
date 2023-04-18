@@ -1,6 +1,6 @@
 # Quantum Mechanics I 
 
-## Yachay Tech University - 2022/2023
+## Yachay Tech University - 2023
 
 ## About this repository:
 This is a collection of lecture notes and programming exercises carried out as part of the Quantum Mechanics I course at Yachay Tech University from November 2022 to March 2023.
@@ -80,16 +80,80 @@ https://github.com/wbandabarragan/quantum-mechanics-1/blob/main/Course-programme
 
 ## Evaluation:
 
-- Formative evaluation (Homework): 20%
+- Formative evaluation (5 Homework): 20%
 
-- Laboratory (Quizzes): 20%
+- Laboratory (5 Quizzes): 20%
 
 - Midterm Exam: 30%
 
 - Final Exam: 30%
 
-## Notes:
+- Both the midterm and final exams have two components, one is carried out in class, one is carried out at home.
 
-There will be no make-up assignments nor exams.
+## Very important policies:
 
-Late assignments/exams without justification won't be accepted.
+There will be neither make-up assignments nor make-up exams. Please do your best in every assignment.
+
+Late assignments without appropriate justification will receive a penalisation according to the following criteria:
+
+- 0-1 day late: -25%
+
+- 1-2 days late: -50%
+
+- 2-3 days late: -75%
+
+- +3 days late: no marks
+
+Late assignments accompanied by appropriate justification (e.g. a medical certificate, etc.) will receive no penalisation.
+
+
+## Calendar:
+
+All dates have a +/- 1 week error bar:
+
+**1. Quiz 1:** Thursday 04/05/2023
+
+**2. Homework 1:** Thursday 11/05/2023
+
+**3. Quiz 2:** Thursday 25/05/2023
+
+**4. Homework 2:** Thursday 01/06/2023
+
+**5. Midterm exam:** Thursday 15/06/2023
+
+**6. Quiz 3:** Thursday 22/06/2023
+
+**7. Homework 3:** Thursday 29/06/2023
+
+**8. Quiz 4:** Thursday 13/07/2023
+
+**9. Homework 4:** Thursday 20/07/2023
+
+**10. Quiz 5:** Monday 31/07/2023
+
+**11. Homework 5:** Thursday 03/08/2023
+
+**12. Final Exam:** Monday 07/08/2023
+
+
+
+The definite assignment deadlines and exam dates will be discussed and agreed upon in class. Once fixed, all deadlines are hard deadlines.
+
+
+## Weekly tutoring schedule:
+
+If you have questions on the material, you can find me in the office:
+
+- On Tuesdays: 14:00 – 15:00 
+
+- On Thursdays: 15:00 – 16:00
+
+
+## On academic integrity:
+
+- Students are responsible for ensuring the academic integrity of their submitted assignments and exams.
+
+- Cheating in exams, plagiarising, and copying code or solutions from the Internet, from other students, or from previous years' solutions are all breaches of academic integrity.
+
+- Academic misconduct will be penalised according to the University’s regulations.
+
