@@ -119,9 +119,9 @@ All dates have a +/- 1 week error bar:
 
 **4. Homework 2:** Thursday 08/06/2023
 
-**5. Midterm exam:** Thursday 15/06/2023
+**5. Midterm exam:** Thursday 22/06/2023
 
-**6. Quiz 3:** Thursday 22/06/2023
+**6. Quiz 3:** Thursday 29/06/2023
 
 **7. Homework 3:** Thursday 29/06/2023
 
