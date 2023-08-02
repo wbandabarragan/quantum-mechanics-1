@@ -129,7 +129,7 @@ All dates have a +/- 1 week error bar:
 
 **9. Homework 4:** Thursday 20/07/2023
 
-**10. Quiz 5:** Monday 31/07/2023
+**10. Quiz 5:** Wednesday 02/08/2023
 
 **11. Homework 5:** Thursday 03/08/2023
 
