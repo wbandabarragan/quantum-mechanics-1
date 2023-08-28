@@ -3,7 +3,7 @@
 ## Yachay Tech University - 2023
 
 ## About this repository:
-This is a collection of lecture notes and programming exercises carried out as part of the Quantum Mechanics I course at Yachay Tech University from April to August 2023.
+This is a collection of lecture notes and programming exercises carried out as part of the Quantum Mechanics I course at Yachay Tech University from August to December 2023.
 
 ## Lecturer:
 Wladimir Banda Barragán
@@ -109,35 +109,7 @@ Late assignments accompanied by appropriate justification (e.g. a medical certif
 
 ## Calendar:
 
-All dates have a +/- 1 week error bar:
-
-**1. Quiz 1:** Thursday 04/05/2023
-
-**2. Homework 1:** Wednesday 24/05/2023
-
-**3. Quiz 2:** Thursday 01/06/2023
-
-**4. Homework 2:** Thursday 08/06/2023
-
-**5. Midterm exam:** Thursday 22/06/2023
-
-**6. Quiz 3:** Monday 03/07/2023
-
-**7. Homework 3:** Thursday 06/07/2023
-
-**8. Quiz 4:** Thursday 13/07/2023
-
-**9. Homework 4:** Thursday 20/07/2023
-
-**10. Quiz 5:** Wednesday 02/08/2023
-
-**11. Homework 5:** Thursday 03/08/2023
-
-**12. Final Exam:** Monday 07/08/2023
-
-
-
-The definite assignment deadlines and exam dates will be discussed and agreed upon in class. Once fixed, all deadlines are hard deadlines.
+The assignment deadlines and exam dates will be discussed and agreed upon in class. Once fixed, all deadlines are hard deadlines.
 
 
 ## Weekly tutoring schedule:
@@ -153,7 +125,7 @@ If you have questions on the material, you can find me in the office:
 
 - Students are responsible for ensuring the academic integrity of their submitted assignments and exams.
 
-- Cheating in exams, plagiarising, and copying code or solutions from the Internet, from other students, or from previous years' solutions are all breaches of academic integrity.
+- Cheating in exams, plagiarising, and copying code or solutions from the Internet, from AI platforms (like chatGPT), from other students, or from previous years' solutions are all breaches of academic integrity.
 
-- Academic misconduct will be penalised according to the University’s regulations.
+- Academic misconduct will be penalised according to the University’s regulations. Any assignments that infringe academic integrity (even partially) will receive zero marks.
 
