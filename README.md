@@ -118,7 +118,7 @@ If you have questions on the material, you can find me in the office:
 
 - On Mondays: 14:00 – 15:00 
 
-- On Tuesdays: 15:00 – 16:00
+- On Tuesdays: 14:00 – 15:00 
 
 
 ## On academic integrity:
