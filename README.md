@@ -88,7 +88,7 @@ https://github.com/wbandabarragan/quantum-mechanics-1/blob/main/Course-programme
 
 - Final Exam: 30%
 
-- Both the midterm and final exams have two components, one is carried out in class, one is carried out at home.
+Both the midterm and final exams have two components, one is carried out in class, one is carried out at home.
 
 ## Very important policies:
 
