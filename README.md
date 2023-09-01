@@ -71,12 +71,22 @@ This course provides an introduction to the formal mathematical treatment of Qua
 
 - Applications of quantum mechanics
 
+## Full Course Syllabus and Programme:
 
 The full course syllabus and programme can be found here:
 
 https://github.com/wbandabarragan/quantum-mechanics-1/blob/main/Course-syllabus.pdf
 
 https://github.com/wbandabarragan/quantum-mechanics-1/blob/main/Course-programme.pdf
+
+## References:
+
+1. David J. Griffiths, Introduction to Quantum Mechanics, 3rd Edition, 2018
+
+2. John Townsend, A Modern Approach to Quantum Mechanics, 2nd Edition, 2012
+   
+3. Feynman, Leighton, Sands, The Feynmann Lectures on Physics (Volume III), Online (https://www.feynmanlectures.caltech.edu/).
+
 
 ## Evaluation:
 
