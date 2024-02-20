@@ -1,12 +1,12 @@
 # Quantum Mechanics I 
 
-## Yachay Tech University - 2023
+## Yachay Tech University - 2024
 
 ## About this repository:
-This is a collection of lecture notes and programming exercises carried out as part of the Quantum Mechanics I course at Yachay Tech University from August to December 2023.
+This is a collection of lecture notes and programming exercises carried out as part of the Quantum Mechanics I course at Yachay Tech University.
 
 ## Lecturer:
-Wladimir Banda Barragán
+Wladimir E. Banda Barragán
 
 ## Course description:
 This course provides an introduction to the formal mathematical treatment of Quantum Mechanics. The course introduces the Schrodinger Equation and its solutions for different potentials, emphasising on its statistical interpretation and its importance for the description of experiments at quantum scales. Topics range from wave functions, the time-independent Schrodinger equation, through Hilbert spaces and the mathematical formalism of quantum mechanics, to the description of the hydrogen atom and two-particle systems. The course includes examples of different applications of quantum mechanics, including writing Hamiltonians for different physical systems and extracting information about them.
@@ -90,9 +90,9 @@ The full course syllabus and programme can be found here:
 
 ## Evaluation:
 
-- Formative evaluation (5 Homework): 20%
+- Formative evaluation (Homework): 20%
 
-- Laboratory (5 Quizzes): 20%
+- Laboratory (Quizzes): 20%
 
 - Midterm Exam: 30%
 
@@ -126,9 +126,9 @@ The assignment deadlines and exam dates will be discussed and agreed upon in cla
 
 If you have questions on the material, you can find me in the office:
 
-- On Mondays: 14:00 – 15:00 
+- On Tuesdays: 15h00 – 16h00  
 
-- On Tuesdays: 14:00 – 15:00 
+- On Wednesdays: 09h00 - 10h00
 
 
 ## On academic integrity:
