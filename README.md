@@ -104,13 +104,13 @@ Both the midterm and final exams have two components, one is carried out in clas
 
 There will be neither make-up assignments nor make-up exams. Please do your best in every assignment.
 
-Late assignments without appropriate justification will receive a penalisation according to the following criteria:
+Late assignments without appropriate justification will receive a penalisation according to the following criteria (-1% per late hour):
 
-- 0-1 day late: -25%
+- 0-1 day late: -24%
 
-- 1-2 days late: -50%
+- 1-2 days late: -48%
 
-- 2-3 days late: -75%
+- 2-3 days late: -72%
 
 - +3 days late: no marks
 
