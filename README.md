@@ -128,7 +128,7 @@ If you have questions on the material, you can find me in the office:
 
 - On Tuesdays: 15h00 – 16h00  
 
-- On Wednesdays: 09h00 - 10h00
+- On Wednesdays: 16h00 – 17h00 
 
 
 ## On academic integrity:
