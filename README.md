@@ -139,3 +139,6 @@ If you have questions on the material, you can find me in the office:
 
 - Academic misconduct will be penalised according to the University’s regulations. Any assignments that infringe academic integrity (even partially) will receive zero marks.
 
+## Acknowledgements:
+I would like to thank my former students and teaching assistants (Melanie Cedeño, Daniel Arias, Juan Castro and Daniel Villarruel) for their valuable support and help in tutoring this course in previous semesters.
+
