@@ -123,6 +123,11 @@ If you have questions on the material, you can find me in the office:
 
 - Academic misconduct will be penalised according to the University’s regulations. Any assignments that infringe academic integrity (even partially) will receive zero marks.
 
+## Very important policies:
+
+Please do your best in every assignment. Late assignments accompanied by appropriate justification (e.g. a medical certificate, etc.) will receive no penalisation. Late assignments without appropriate justification will receive a penalisation of -1% per late hour.
+
+
 ## Acknowledgements:
 I would like to thank my former students and teaching assistants (Melanie Cedeño, Daniel Arias, Juan Castro and Daniel Villarruel) for their valuable support and help in tutoring this course in previous semesters.
 
