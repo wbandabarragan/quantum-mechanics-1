@@ -132,3 +132,10 @@ Late assignments accompanied by appropriate justification (e.g. a medical certif
 ## Acknowledgements:
 I would like to thank my former students and teaching assistants (Melanie Cedeño, Daniel Arias, Juan Castro and Daniel Villarruel) for their valuable support and help in tutoring this course in previous semesters.
 
+
+## Archived courses:
+Please visit the repository below to see the materials developed in previous semesters:
+
+https://github.com/wbandabarragan/quantum-mechanics-1-arxiv
+
+
