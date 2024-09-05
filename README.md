@@ -81,9 +81,9 @@ https://github.com/wbandabarragan/quantum-mechanics-1/blob/main/QM1_Program_Ing_
 
 ## References:
 
-1. David J. Griffiths, Introduction to Quantum Mechanics, 3rd Edition, 2018
+1. David J. Griffiths, Introduction to Quantum Mechanics, 3rd Edition, 2018.
 
-2. John Townsend, A Modern Approach to Quantum Mechanics, 2nd Edition, 2012
+2. John Townsend, A Modern Approach to Quantum Mechanics, 2nd Edition, 2012.
    
 3. Feynman, Leighton, Sands, The Feynmann Lectures on Physics (Volume III), Online (https://www.feynmanlectures.caltech.edu/).
 
