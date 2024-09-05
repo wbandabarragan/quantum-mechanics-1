@@ -53,23 +53,23 @@ This course provides an introduction to the formal mathematical treatment of Qua
 
 ### 4. Quantum Mechanics in 3D
 
-- Schrodinger Equations in Spherical Coordinates
+- Schrodinger Equations in Spherical Coordinates.
 
-- Coulomb potential and quantum description of the Hydrogen atom
+- Coulomb potential and quantum description of the Hydrogen atom.
 
-- Angular momentum and spin
+- Angular momentum and spin.
 
-- Larmor precession and the Stern- Gerlach experiment
+- Larmor precession and the Stern- Gerlach experiment.
 
 ### 5. Two-Particle Systems and quantum applications
 
 - Identical particles and introduction to two-particle systems.
 
-- Exchange interactions and covalent bonds
+- Exchange interactions and covalent bonds.
 
-- Atoms and the periodic table
+- Atoms and the periodic table.
 
-- Applications of quantum mechanics
+- Applications of quantum mechanics.
 
 ## Full Course Syllabus and Programme:
 
@@ -98,7 +98,7 @@ https://github.com/wbandabarragan/quantum-mechanics-1/blob/main/QM1_Program_Ing_
 
 - Final Exam: 30%
 
-Both the midterm and final exams have two components, one is carried out in class, one is carried out at home.
+Both the midterm and final exams have two components, one is carried out in class, one is carried out at home. Please do your best in every assignment.
 
 
 ## Calendar:
@@ -124,9 +124,9 @@ If you have questions on the material, you can find me in the office:
 - Academic misconduct will be penalised according to the University’s regulations. Any assignments that infringe academic integrity (even partially) will receive zero marks.
 
 
-## Very important policies:
+## Late assignment policy:
 
-Please do your best in every assignment. Late assignments accompanied by appropriate justification (e.g. a medical certificate, etc.) will receive no penalisation. Late assignments without appropriate justification will receive a penalisation of -1% per late hour.
+Late assignments accompanied by appropriate justification (e.g. a medical certificate, etc.) will receive no penalisation. Late assignments without appropriate justification will receive a penalisation of -1% per late hour.
 
 
 ## Acknowledgements:
