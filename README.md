@@ -100,22 +100,6 @@ The full course syllabus and programme can be found here:
 
 Both the midterm and final exams have two components, one is carried out in class, one is carried out at home.
 
-## Very important policies:
-
-There will be neither make-up assignments nor make-up exams. Please do your best in every assignment.
-
-Late assignments without appropriate justification will receive a penalisation according to the following criteria (-1% per late hour):
-
-- 0-1 day late: -24%
-
-- 1-2 days late: -48%
-
-- 2-3 days late: -72%
-
-- +3 days late: no marks
-
-Late assignments accompanied by appropriate justification (e.g. a medical certificate, etc.) will receive no penalisation.
-
 
 ## Calendar:
 
@@ -126,9 +110,9 @@ The assignment deadlines and exam dates will be discussed and agreed upon in cla
 
 If you have questions on the material, you can find me in the office:
 
-- On Tuesdays: 15h00 – 16h00  
+- On Mondays: 14h00 – 15h00  
 
-- On Wednesdays: 16h00 – 17h00 
+- On Tuesdays: 12h00 – 13h00 
 
 
 ## On academic integrity:
