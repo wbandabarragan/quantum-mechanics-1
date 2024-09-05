@@ -75,9 +75,9 @@ This course provides an introduction to the formal mathematical treatment of Qua
 
 The full course syllabus and programme can be found here:
 
-[https://github.com/wbandabarragan/quantum-mechanics-1/blob/main/Course-syllabus.pdf](https://github.com/wbandabarragan/quantum-mechanics-1/blob/main/QM-syllabus.pdf)
+https://github.com/wbandabarragan/quantum-mechanics-1/blob/main/QM1_Syllabus_Ing_IISEM2024.pdf
 
-[https://github.com/wbandabarragan/quantum-mechanics-1/blob/main/Course-programme.pdf](https://github.com/wbandabarragan/quantum-mechanics-1/blob/main/QM-programme.pdf)
+https://github.com/wbandabarragan/quantum-mechanics-1/blob/main/QM1_Program_Ing_IISEM2024.pdf
 
 ## References:
 
@@ -122,6 +122,7 @@ If you have questions on the material, you can find me in the office:
 - Cheating in exams, plagiarising, and copying code or solutions from the Internet, from AI platforms (like chatGPT), from other students, or from previous years' solutions are all breaches of academic integrity.
 
 - Academic misconduct will be penalised according to the University’s regulations. Any assignments that infringe academic integrity (even partially) will receive zero marks.
+
 
 ## Very important policies:
 
