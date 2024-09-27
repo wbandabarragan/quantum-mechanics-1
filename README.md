@@ -73,11 +73,9 @@ This course provides an introduction to the formal mathematical treatment of Qua
 
 ## Full Course Syllabus and Programme:
 
-The full course syllabus and programme can be found here:
+The full course syllabus can be found here:
 
-https://github.com/wbandabarragan/quantum-mechanics-1/blob/main/QM1_Syllabus_Ing_IISEM2024.pdf
-
-https://github.com/wbandabarragan/quantum-mechanics-1/blob/main/QM1_Program_Ing_IISEM2024.pdf
+https://github.com/wbandabarragan/quantum-mechanics-1/blob/main/SYL_ECFN1009_Mecanica%20Cuantica_ing.pdf
 
 ## References:
 
