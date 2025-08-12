@@ -1,6 +1,6 @@
 # Quantum Mechanics I 
 
-## Yachay Tech University - 2024
+## Yachay Tech University - 2025
 
 ## About this repository:
 This is a collection of lecture notes and programming exercises carried out as part of the Quantum Mechanics I course at Yachay Tech University.
