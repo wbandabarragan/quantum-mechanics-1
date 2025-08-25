@@ -75,7 +75,7 @@ This course provides an introduction to the formal mathematical treatment of Qua
 
 The full course syllabus can be found here:
 
-https://github.com/wbandabarragan/quantum-mechanics-1/blob/main/SYL_ECFN1009_Mecanica%20Cuantica_ing.pdf
+https://github.com/wbandabarragan/quantum-mechanics-1/blob/main/QM1_Syllabus_Ing_IISEM2025_fisnano.pdf
 
 ## References:
 
