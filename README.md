@@ -81,9 +81,11 @@ https://github.com/wbandabarragan/quantum-mechanics-1/blob/main/SYL_ECFN1009_Mec
 
 1. David J. Griffiths, Introduction to Quantum Mechanics, 3rd Edition, 2018.
 
-2. John Townsend, A Modern Approach to Quantum Mechanics, 2nd Edition, 2012.
+2. Robert Resnick & David Halliday, Basic Concepts in Relativity and Early Quantum Theory, 2nd Edition, 1985.
    
-3. Feynman, Leighton, Sands, The Feynmann Lectures on Physics (Volume III), Online (https://www.feynmanlectures.caltech.edu/).
+3. John Townsend, A Modern Approach to Quantum Mechanics, 2nd Edition, 2012.
+   
+4. Feynman, Leighton, Sands, The Feynmann Lectures on Physics (Volume III), Online (https://www.feynmanlectures.caltech.edu/).
 
 
 ## Evaluation:
@@ -108,9 +110,14 @@ The assignment deadlines and exam dates will be discussed and agreed upon in cla
 
 If you have questions on the material, you can find me in the office:
 
-- On Mondays: 14h00 – 15h00  
+- On Mondays: 11h00 – 12h00  
 
-- On Tuesdays: 12h00 – 13h00 
+- On Thursdays: 11h00 – 12h00 
+
+
+## Class attendance:
+
+- As per regulations of the Vicerrector's office of Yachay Tech, you should attend 70% of the classes to pass the course.
 
 
 ## On academic integrity:
@@ -128,12 +135,18 @@ Late assignments accompanied by appropriate justification (e.g. a medical certif
 
 
 ## Acknowledgements:
-I would like to thank my former students and teaching assistants: Melanie Cedeño, Daniel Arias (https://github.com/VariableCefeida), Juan Castro (https://github.com/JuanAndCast) and Daniel Villarruel (https://github.com/DanV-Y) for their valuable support and help in tutoring this course in previous semesters.
+I would like to thank my former students and teaching assistants for their valuable support and help in tutoring this course in previous semesters:
+
+- Melanie Cedeño
+  
+- Daniel Arias (https://github.com/VariableCefeida)
+  
+- Juan Castro (https://github.com/JuanAndCast), and
+  
+- Daniel Villarruel (https://github.com/DanV-Y) 
 
 
 ## Archived courses:
 Please visit the repository below to see the materials developed in previous semesters:
 
 https://github.com/wbandabarragan/quantum-mechanics-1-arxiv
-
-
